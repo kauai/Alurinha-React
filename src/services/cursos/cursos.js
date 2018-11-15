@@ -1,0 +1,21 @@
+const Lista = [
+    {name:'PHP'},
+    {name:'Java'},
+    {name:'Ruby on rails'},
+    {name:'.NET'},
+    {name:'Pascal'},
+    {name:'Flexbox'},
+    {name:'Desenvolvimento web'},
+    {name:'Java web'},
+    {name:'Javascript'},
+    {name:'Angula js'},
+    {name:'TDD com c'},
+    {name:'Redes de computadores'},
+    {name:'Mysql'},
+    {name:'Maria Db'},
+    {name:'Postgree',img:'./img/background2.svg'},
+    {name:'Logica de programação'},
+    {name:'React'},
+    {name:'Vue js'},
+]
+export default Lista
